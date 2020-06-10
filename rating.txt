@@ -1,0 +1,6 @@
+Tim 1000
+Herman 250
+John 450
+Gert 150
+Harrt\y 750
+Piet 350
